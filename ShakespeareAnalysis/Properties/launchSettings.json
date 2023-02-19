@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShakespeareAnalysis": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Thoma\\Downloads\\pg100.txt\""
+    }
+  }
+}

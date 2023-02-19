@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryTimeConversion", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JakeTheSnakeTeam16", "JakeTheSnakeTeam16\JakeTheSnakeTeam16.csproj", "{C42CEA67-2499-4C0F-BA32-14024CF3D5B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakespeareAnalysis", "ShakespeareAnalysis\ShakespeareAnalysis.csproj", "{72F5A8D8-9335-424B-BDF2-F66871B181B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C42CEA67-2499-4C0F-BA32-14024CF3D5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C42CEA67-2499-4C0F-BA32-14024CF3D5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C42CEA67-2499-4C0F-BA32-14024CF3D5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F5A8D8-9335-424B-BDF2-F66871B181B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F5A8D8-9335-424B-BDF2-F66871B181B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F5A8D8-9335-424B-BDF2-F66871B181B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F5A8D8-9335-424B-BDF2-F66871B181B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
